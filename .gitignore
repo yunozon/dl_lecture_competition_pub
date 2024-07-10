@@ -172,4 +172,4 @@ cython_debug/
 
 .DS_Store
 venv/
-log_dir/
+log_dir/.DS_Store
